@@ -117,6 +117,11 @@ i {
     position: relative;
     right: 8rem;
 }
+.middle {
+    position: relative;
+    right: 2rem;
+    top: 0.5rem;
+}
 .down-header .right {
     display: flex;
     align-items: center;
